@@ -1,0 +1,7 @@
+[user]
+	name = bnogaret
+	email = john@doe.com
+[core]
+	editor = emacs -nw
+[merge]
+	tool = emerge
